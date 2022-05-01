@@ -1,0 +1,3 @@
+Daniel Mellado Hurtado
+
+La AtariGo se ejecuta en su función básica (Sólo a una captura) por defecto.
